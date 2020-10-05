@@ -16,7 +16,7 @@
 
  body {
     font-family: 'Lato', sans-serif;
-    background: #EDEFF0;
+    background: #e9e9e9;
 }
 
 .wrapper {
@@ -37,7 +37,7 @@
 .main_header {
    width: 100%;
    margin: 0 auto;
-   background: white;
+   background: rgb(170, 186, 255);
    #logo {
        float: left;
        a {
@@ -46,7 +46,7 @@
            letter-spacing: -1px;
            font-size: 1.2rem;
            text-decoration: none;
-           color:#397CAC;
+           color:#4c00ff;
        }
    }
    #buttons {
